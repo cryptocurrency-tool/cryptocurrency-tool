@@ -226,4 +226,6 @@ This project uses code from the [Trezor project](https://github.com/trezor/trezo
 ## License
 This project is licensed under the [MIT License](/LICENSE)
 
-Update:  11.06.2025 Updated design pattern reference links
+
+
+Update: Link is now accessible and responsive
